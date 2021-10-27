@@ -1,0 +1,81 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+#body{
+     background: #bdc3c7; 
+background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);
+background: linear-gradient(to right, #2c3e50, #bdc3c7); 
+
+}
+.login{
+margin: auto;
+margin-top:200px;
+ background-color: #eeeeee; 
+height: 450px;
+width: 500px;
+padding-top: 10px;
+border-radius: 10px;
+ font-size: 20px;
+color: rgb(0, 0, 0);
+}
+.title{
+text-align: center;
+padding-top: 20px;
+padding-bottom: 50px;
+text-transform: uppercase;
+
+}
+ .name{
+     padding-left: 30px;
+ }
+ .pass{
+    padding-left: 30px;
+ 
+ }
+.Email{
+    padding-top: 8px;
+    padding-bottom: 5px;
+      width: 440px;
+     font-size: 16px;
+     margin-left: 30px;
+     margin-top: 10px;
+     padding-left: 10px;
+     margin-bottom: 20px;
+
+}
+.password{
+    padding-top: 8px;
+    padding-bottom: 5px;
+      width: 440px;
+     font-size: 16px;
+     margin-left: 30px;
+     margin-top: 10px;
+     padding-left: 10px;
+     
+}
+ .divbtn{
+     text-align: center;
+     margin: auto;
+ }
+.btn{
+     padding: 11px;
+    border-radius: 0px;
+    text-align: center;
+    width: 240px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    margin-top: 20px;
+}
+.btn:hover{
+    color: black;
+    background-color: rgb(199, 174, 174);
+    cursor: pointer;
+}
+ 
+
+ 
